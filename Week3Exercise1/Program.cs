@@ -51,3 +51,4 @@ namespace Week3Exercise1
             Console.WriteLine("Converted Amount: " + convertedAmount + " " + toCurrency); // Display result
         }
     }
+}
